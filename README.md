@@ -33,7 +33,7 @@ Verify that the e-commerce demo application renders and behaves consistently acr
 | Google Chrome | 141.0 | Windows |
 | Mozilla Firefox | 143.0 | Windows |
 | Microsoft Edge | 141.0 | Windows |
-| Apple Safari |  18.6 | macOS / iOS (cloud testing) |
+| Apple Safari |  18.6 | iOS (iPhone 12, real device) | 
 
 **Responsive widths:** Desktop (full screen), 768 px (tablet), 375 px (mobile), tested using responsive emulation
 
