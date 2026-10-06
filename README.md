@@ -30,10 +30,10 @@ Verify that the e-commerce demo application renders and behaves consistently acr
 
 | Browser | Version | Platform |
 |---|---|---|
-| Google Chrome | _add version_ | Windows |
-| Mozilla Firefox | _add version_ | Windows |
-| Microsoft Edge | _add version_ | Windows |
-| Apple Safari | _add version_ | macOS / iOS (cloud testing) |
+| Google Chrome | 141.0 | Windows |
+| Mozilla Firefox | 143.0 | Windows |
+| Microsoft Edge | 141.0 | Windows |
+| Apple Safari |  18.6 | macOS / iOS (cloud testing) |
 
 **Responsive widths:** Desktop (full screen), 768 px (tablet), 375 px (mobile), tested using responsive emulation
 
