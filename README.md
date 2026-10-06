@@ -91,4 +91,5 @@ For every flow and browser:
 
 ## 9. Evidence
 
-Screenshots are in the `screenshots/` folder, named by browser and page (for example `chrome_checkout_overview.png`).
+Screenshots are in the repository root, named by browser and page (for example chrome_inventory.png).
+
